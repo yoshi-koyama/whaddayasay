@@ -125,4 +125,6 @@ https://www.youtube.com/watch?v=JqxEjQ5xfpw
 
 ためしにimportantを検索してみて、impor[t]antのtが消えて、代わりに小さな「ッ」が入っていることを確認してみましょう。
 
-https://youglish.com/
+https://youglish.com/pronounce/important/english?
+
+リンク先はイギリス発音ですがアメリカやオーストラリア、カナダの発音も聞いてみてください。
