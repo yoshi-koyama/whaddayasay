@@ -1,14 +1,14 @@
 # 何を学ぶのか？
 
 以下の２つのことを学ぶと会話に用いられるリラックスした発音の秘密を知ることができます。
-- reduction/contradiction（リダクション、省略）
+- reduction/contraction（リダクション、省略）
 - linking（リンキング）
 
-# reduction/contradiction
+# reduction/contraction
 英語を話すのが上手な人の英語は速く聞こえる。
 でも１つ１つの単語をどんなに速く発音しても同じように発音することはできません。
 
-この謎を解決するのがreduction（またはcontradiction）と呼ばれるものです。
+この謎を解決するのがreduction（またはcontraction）と呼ばれるものです。
 
 reductionを知り、利用することでより自然でリラックスした発音を手に入れることができます。
 
