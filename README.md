@@ -123,7 +123,7 @@ advantage ≒ advannage
 
 What are you doing?
 
-はreduction、liking、それからFlap Tが組み合わさり、
+はreduction、linking、それからFlap Tが組み合わさり、
 
 Whaddaya doing?
 
