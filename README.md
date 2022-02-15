@@ -12,8 +12,26 @@
 
 reductionを知り、利用することでより自然でリラックスした発音を手に入れることができます。
 
+例えば、
+
+youは「ユー」ではなく弱く「ヤ」、「ユ」と発音します。
+
+toは「トゥー」ではなく弱く「タ」と発音します。
+
+Nice to meet you.
+
+は
+
+Nice ta meet ya
+
+のような発音になります。
+
 それに加えて非ネイティブの英語話者も含めてreductionを利用して会話をします。
 そういった人たちとの会話を聞き取るためにもreductionは一通り理解しておくとよいです。
+
+ただし、残念ながら私の知る限り日本語で書かれた教材でreductionを順を追って学べる教材はありません。
+
+私がおすすめするのは Nina Weinstein著の[WHADDAYA SAY?](https://www.amazon.co.jp/WHADDAYA-SAY-2E-Nina-Weinstein/dp/0201670402)です。
 
 # linking
 
@@ -77,6 +95,8 @@ lot of ≒ lod of
 
 battle ≒ baddle
 
+go to ≒ go da
+
 ## Glottal T
 ある特定のルールに合致する時にTが消え、かつ小さな「っ」が入るような音になります。
 
@@ -94,6 +114,25 @@ wanted ≒ wanned
 advantage ≒ advannage
 
 ※advantageの発音はədˈvan(t)ijです。アドバン「テ」ージではなくアドバ「ニ」ージュのような音になります。
+
+# reductionとlinkingの組み合わせ
+
+これまで学習したreductionとlinkingが組み合わさることも頻繁にあります。
+
+例えば、
+
+What are you doing?
+
+は
+
+reduction、liking、それからFlap Tが組み合わさり、
+
+Whaddaya doing?
+
+と非常に短くなります。
+
+英語話者は速く喋っているのではないことがわかります。
+
 # その他の参考教材
 Youtubeには様々な優良教材が転がっています。
 
