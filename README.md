@@ -22,76 +22,101 @@ reductionを知り、利用することでより自然でリラックスした�
 たとえば、子音で終わる単語と母音で始まる単語がつながる例がわかりやすいです。
 
 `does it`は`doe-sit`となります。
+
 `make a`は`ma-ka`となります。
+
 例文：`Does it make a difference?`
 
 このリンキングには様々なパターンがあります。
 ## 母音 + 子音パターン
 **Hold on** a minute.
+
 I **like it**.
 ## 母音 + 母音パターン
 つながる母音と母音の間に小さなw音が入ります。
+
 I don't **know if** he's going to come.
+
 It tastes bitter, **so I** don't like it.
 
 ## 子音 + 子音パターン
 How may I **help you**?
+
 It's hot **than usual**.
 
 ## 破裂音 + 破裂音で音が脱落するパターン
 We had such a **good time**.
+
 You have to **take care** of her.
 
 ## 破裂音 + 摩擦音で音が脱落するパターン
 I **want them** to come.
+
 **Stop smoking**.
 
 ## 似た音どうしてつながるパターン
 I **feel like** having something to eat.
+
 **Did you** watch the movie?
 
 # 様々なT
 
 英語発音を学ぶ上でTの発音にはいろいろな種類があります。
+
 あまり知られていないTの発音について紹介します。
 ## Flap T
 reductionやlinkingとは直接関係ないですが、アメリカ英語における重要な発音変化なので知っておきましょう。
+
 母音に挟まれたtはdやlに近い発音になります。
 
 better ≒ bedder
+
 water ≒ wader
+
 lot of ≒ lod of
+
 battle ≒ baddle
 
 ## Glottal T
 ある特定のルールに合致する時にTが消え、かつ小さな「っ」が入るような音になります。
+
 important ≒ impor[t]ant
+
 button ≒ bu[tt]on
 
 ## NT in the middle of words
 アメリカ英語ではNTのTが消えることがあります。
+
 Internet ≒ Innernet
+
 wanted ≒ wanned
+
 advantage ≒ advannage
+
 ※advantageの発音はədˈvan(t)ijです。アドバン「テ」ージではなくアドバ「ニ」ージュのような音になります。
 # その他の参考教材
 Youtubeには様々な優良教材が転がっています。
+
 linking、reductionを学ぶ上で参考になる教材をご紹介します。
 
 ## Rachel's English
 American Englishの発音を学ぶ大量の教材を提供している先生です。
+
 英語を英語で学ぶという経験もぜひおすすめです。
+
 reductionについては以下がおすすめです。
+
 https://www.youtube.com/watch?v=JqxEjQ5xfpw
 
 ## 『あいうえおフォニックス』英語発音
 
 米国在住の日本人（子供は現地育ち）が運営しているチャンネル
 - まえがみって何ていうの？
-- 仮定法のwouldって結局どういういみ？
+- 仮定法のwouldって結局どういう意味？
 - 〜にはまっているってどう表現するの？
 
 と気になる表現をネイティブならではの表現力でたくさんまとめてくれています。
+
 また例文ではlinkingを図示しながら発音してくれるのでlinkingの学習にうってつけです。
 
 ## YouGlish
