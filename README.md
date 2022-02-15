@@ -123,9 +123,7 @@ advantage ≒ advannage
 
 What are you doing?
 
-は
-
-reduction、liking、それからFlap Tが組み合わさり、
+はreduction、liking、それからFlap Tが組み合わさり、
 
 Whaddaya doing?
 
